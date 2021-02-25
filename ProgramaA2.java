@@ -65,7 +65,7 @@ public class ProgramaA2
   { 
     String file = "";
     int option = 0;
-    String yes_no_option = "y";
+    String yes_no_option = "n";
     
     do
     {
